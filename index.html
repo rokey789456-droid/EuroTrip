@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Portal del viaje</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="hero">
+    <nav>
+      <span class="logo">✈️ Portal del viaje</span>
+      <a href="#cronograma" data-tab-link="cronograma">Cronograma</a>
+      <a href="#reservas" data-tab-link="reservas">Reservas</a>
+      <a href="#gastos" data-tab-link="gastos">Gastos</a>
+    </nav>
+
+    <section>
+      <p class="eyebrow">Viaje de 3 personas</p>
+      <h1 id="trip-title">Cargando viaje...</h1>
+      <p id="trip-summary"></p>
+    </section>
+  </header>
+
+  <main>
+    <section class="grid cards" id="resumen"></section>
+
+    <section class="panel travel-tabs" aria-label="Organización del viaje">
+      <div class="tab-list" role="tablist" aria-label="Secciones principales">
+        <button class="tab-button active" type="button" role="tab" aria-selected="true" aria-controls="cronograma" data-tab="cronograma">
+          Cronograma
+        </button>
+
+        <button class="tab-button" type="button" role="tab" aria-selected="false" aria-controls="reservas" data-tab="reservas">
+          Reservas
+        </button>
+
+        <button class="tab-button" type="button" role="tab" aria-selected="false" aria-controls="gastos" data-tab="gastos">
+          Gastos
+        </button>
+      </div>
+
+      <section class="tab-panel active" id="cronograma" role="tabpanel">
+        <div class="section-title">
+          <div>
+            <p class="eyebrow">Plan día a día</p>
+            <h2>Cronograma</h2>
+          </div>
+        </div>
+
+        <div id="timeline" class="timeline"></div>
+      </section>
+
+      <section class="tab-panel" id="reservas" role="tabpanel" hidden>
+        <div class="section-title">
+          <div>
+            <p class="eyebrow">Archivos descargables</p>
+            <h2>Reservas y documentos</h2>
+          </div>
+        </div>
+
+        <div id="bookings" class="booking-list"></div>
+      </section>
+
+      <section class="tab-panel" id="gastos" role="tabpanel" hidden>
+        <div class="section-title">
+          <div>
+            <p class="eyebrow">Presupuesto del viaje</p>
+            <h2>Costos fijos</h2>
+          </div>
+
+          <button id="exportBudget">Exportar CSV</button>
+        </div>
+
+        <div class="budget-block">
+          <div class="expense-summary" id="budgetSummary"></div>
+
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Concepto</th>
+                  <th>Proveedor</th>
+                  <th>Fecha</th>
+                  <th class="money-header">Total</th>
+                  <th class="money-header">Por persona</th>
+                  <th>Estado</th>
+                  <th>Nota</th>
+                </tr>
+              </thead>
+
+              <tbody id="budgetRows"></tbody>
+            </table>
+          </div>
+        </div>
+      </section>
+    </section>
+  </main>
+
+  <footer>
+    <p>Hecho para organizar el viaje. No publiques documentos con datos sensibles si el sitio será público.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

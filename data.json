@@ -1,0 +1,789 @@
+{
+  "title": "Viaje Europa 2026",
+  "dates": "4 al 25 de junio de 2026",
+  "destination": "España, Francia, Alemania, Suiza e Italia",
+  "people": [
+    "Andres Felipe Cruz",
+    "Andersson Cruz",
+    "Dayana Andrea Parra"
+  ],
+  "currency": "COP",
+"budgetItems": [
+  {
+    "category": "Transporte",
+    "concept": "Cali → Bogotá",
+    "provider": "JETSMART JA5301",
+    "date": "2026-06-04",
+    "total": 507540,
+    "perPerson": 169180,
+    "currency": "COP",
+    "paid": true,
+    "note": "Reserva QCFCHA · Equipaje: No"
+  },
+  {
+    "category": "Transporte",
+    "concept": "Bogotá → Madrid",
+    "provider": "IBERIA IB0152",
+    "date": "2026-06-04",
+    "total": 13443450,
+    "perPerson": 4481150,
+    "currency": "COP",
+    "paid": true,
+    "note": "Reserva K4VHD · Equipaje: Sí"
+  },
+  {
+    "category": "Transporte",
+    "concept": "Madrid → Barcelona",
+    "provider": "Tren por confirmar",
+    "date": "2026-06-07",
+    "total": 1568381,
+    "perPerson": 522793,
+    "currency": "COP",
+    "paid": true,
+    "note": "Duración estimada: 2 h 35 min"
+  },
+  {
+    "category": "Transporte",
+    "concept": "Barcelona → París",
+    "provider": "VUELING VY8248",
+    "date": "2026-06-10",
+    "total": 1125783,
+    "perPerson": 375261,
+    "currency": "COP",
+    "paid": true,
+    "note": "Reserva UNZC4A · Equipaje: No"
+  },
+  {
+    "category": "Transporte",
+    "concept": "París → Múnich",
+    "provider": "AIR FRANCE AF1422",
+    "date": "2026-06-13",
+    "total": 1745400,
+    "perPerson": 581800,
+    "currency": "COP",
+    "paid": true,
+    "note": "Reserva ZGO5KY · Equipaje: No"
+  },
+  {
+    "category": "Transporte",
+    "concept": "Múnich → Chur",
+    "provider": "OMIO ECE192 / IR2219",
+    "date": "2026-06-16",
+    "total": 522109,
+    "perPerson": 174036,
+    "currency": "COP",
+    "paid": true,
+    "note": "Reserva 628777540908"
+  },
+  {
+    "category": "Transporte",
+    "concept": "St.Moritz → Tirano",
+    "provider": "Bernina",
+    "date": "2026-06-19",
+    "total": 950000,
+    "perPerson": 316666,
+    "currency": "COP",
+    "paid": true,
+    "note": "Reserva 115810"
+  },
+  
+  {
+    "category": "Transporte",
+    "concept": "Tirano → Milan",
+    "provider": "",
+    "date": "2026-06-19",
+    "total": 0,
+    "perPerson": 0,
+    "currency": "COP",
+    "paid": false,
+    "note": ""
+  },
+
+  {
+    "category": "Transporte",
+    "concept": "Milan → Pisa ",
+    "provider": "",
+    "date": "2026-06-20",
+    "total": 0,
+    "perPerson": 0,
+    "currency": "COP",
+    "paid": false,
+    "note": ""
+  },
+{
+    "category": "Transporte",
+    "concept": "Pisa → Roma ",
+    "provider": "",
+    "date": "2026-06-21",
+    "total": 0,
+    "perPerson": 0,
+    "currency": "COP",
+    "paid": false,
+    "note": ""
+  },
+
+  {
+    "category": "Transporte",
+    "concept": "Italia → Madrid",
+    "provider": "Por confirmar",
+    "date": "2026-06-24",
+    "total": 0,
+    "perPerson": 0,
+    "currency": "COP",
+    "paid": false,
+    "note": "Regreso a Madrid para tomar vuelo internacional"
+  },
+  {
+    "category": "Transporte",
+    "concept": "Madrid → Bogotá",
+    "provider": "IBERIA",
+    "date": "2026-06-25",
+    "total": 0,
+    "perPerson": 0,
+    "currency": "COP",
+    "paid": true,
+    "note": "Reserva K4VHD · Incluido con el vuelo internacional"
+  },
+  {
+    "category": "Transporte",
+    "concept": "Bogotá → Cali",
+    "provider": "Por confirmar",
+    "date": "2026-06-25",
+    "total": 0,
+    "perPerson": 0,
+    "currency": "COP",
+    "paid": false,
+    "note": ""
+  },
+
+  {
+    "category": "Alojamiento",
+    "concept": "Alojamiento Madrid",
+    "provider": "Por confirmar",
+    "date": "2026-06-05",
+    "total": 1228904,
+    "perPerson": 409634,
+    "currency": "COP",
+    "paid": false,
+    "note": "Estadía del 5 al 7 de junio"
+  },
+  {
+    "category": "Alojamiento",
+    "concept": "Alojamiento Barcelona",
+    "provider": "Por confirmar",
+    "date": "2026-06-07",
+    "total": 2621447,
+    "perPerson": 873815,
+    "currency": "COP",
+    "paid": true,
+    "note": "Estadía del 7 al 10 de junio"
+  },
+  {
+    "category": "Alojamiento",
+    "concept": "Alojamiento París",
+    "provider": "Por confirmar",
+    "date": "2026-06-10",
+    "total": 2698705,
+    "perPerson": 899568,
+    "currency": "COP",
+    "paid": true,
+    "note": "Estadía del 10 al 13 de junio"
+  },
+
+  {
+    "category": "Alojamiento",
+    "concept": "Alojamiento Múnich",
+    "provider": "Por confirmar",
+    "date": "2026-06-13",
+    "total": 1560089,
+    "perPerson": 520029,
+    "currency": "COP",
+    "paid": true,
+    "note": "Estadía del 13 al 16 de junio"
+  },
+
+  
+  {
+    "category": "Alojamiento",
+    "concept": "Alojamiento Grindelwald",
+    "provider": "Por confirmar",
+    "date": "2026-06-16",
+    "total": 3521446,
+    "perPerson": 1173815,
+    "currency": "COP",
+    "paid": true,
+    "note": "Estadía del 16 al 19 de junio"
+  },
+  {
+    "category": "Alojamiento",
+    "concept": "Alojamiento Pisa",
+    "provider": "Por confirmar",
+    "date": "2026-06-19",
+    "total": 0,
+    "perPerson": 0,
+    "currency": "COP",
+    "paid": false,
+    "note": "Estadía del 19 al 21 de junio"
+  },
+   {
+    "category": "Alojamiento",
+    "concept": "Alojamiento Roma",
+    "provider": "Por confirmar",
+    "date": "2026-06-19",
+    "total": 0,
+    "perPerson": 0,
+    "currency": "COP",
+    "paid": false,
+    "note": "Estadía del 21 al 24 de junio"
+  },
+  
+
+  {
+    "category": "Alquiler",
+    "concept": "Auto en Suiza",
+    "provider": "Por confirmar",
+    "date": "2026-06-16",
+    "total": 0,
+    "perPerson": 0,
+    "currency": "COP",
+    "paid": false,
+    "note": "Alquiler desde Chur para ir a Grindelwald"
+  },
+
+  {
+    "category": "Entradas",
+    "concept": "Entradas Madrid",
+    "provider": "Por confirmar",
+    "date": "2026-06-05",
+    "total": 0,
+    "perPerson": 0,
+    "currency": "COP",
+    "paid": false,
+    "note": "Museos, parques, tours o atracciones en Madrid"
+  },
+  {
+    "category": "Entradas",
+    "concept": "Entradas Barcelona",
+    "provider": "Por confirmar",
+    "date": "2026-06-07",
+    "total": 0,
+    "perPerson": 0,
+    "currency": "COP",
+    "paid": false,
+    "note": "Museos, parques, tours o atracciones en Barcelona"
+  },
+  {
+    "category": "Entradas",
+    "concept": "Entradas París",
+    "provider": "Por confirmar",
+    "date": "2026-06-10",
+    "total": 0,
+    "perPerson": 0,
+    "currency": "COP",
+    "paid": false,
+    "note": "Museos, parques, tours o atracciones en París"
+  },
+  {
+    "category": "Entradas",
+    "concept": "Entradas Múnich",
+    "provider": "Por confirmar",
+    "date": "2026-06-13",
+    "total": 0,
+    "perPerson": 0,
+    "currency": "COP",
+    "paid": false,
+    "note": "Museos, tours o atracciones en Múnich"
+  },
+  {
+    "category": "Entradas",
+    "concept": "Entradas Suiza",
+    "provider": "Por confirmar",
+    "date": "2026-06-16",
+    "total": 0,
+    "perPerson": 0,
+    "currency": "COP",
+    "paid": false,
+    "note": "Actividades, montaña, teleféricos o atracciones en Grindelwald"
+  },
+  {
+    "category": "Entradas",
+    "concept": "Entradas Italia",
+    "provider": "Por confirmar",
+    "date": "2026-06-19", 
+    "total": 318844,
+    "perPerson": 106281,
+    "currency": "COP",
+    "paid": false,
+    "note": "Coliseo Romano."
+  }
+],
+  "schedule": [
+    {
+      "city": "Salida de Colombia",
+      "range": "4 de junio",
+      "date": "2026-06-04",
+      "summary": "Salida desde Cali hacia Bogotá y conexión internacional hacia Madrid.",
+      "days": [
+        {
+          "date": "2026-06-04",
+          "title": "Cali → Bogotá → Madrid",
+          "items": [
+            {
+              "time": "07:01",
+              "title": "Vuelo Cali → Bogotá",
+              "details": "JETSMART JA5301 · Llegada 08:05 · Duración: 1 h · Reserva: QCFCHA · Equipaje: No "
+            },
+            {
+              "time": "17:30",
+              "title": "Vuelo Bogotá → Madrid",
+              "details": "IBERIA IB0152 · Llegada el 5 de junio a las 10:00 · Duración: 10 h · Reserva: K4VHD · Equipaje: Sí "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Madrid",
+      "range": "5 al 7 de junio",
+      "date": "2026-06-05",
+      "summary": "Llegada a Europa y estadía inicial en Madrid.",
+      "days": [
+        {
+          "date": "2026-06-05",
+          "title": "Llegada a Madrid",
+          "items": [
+            {
+              "time": "10:00",
+              "title": "Llegada a Madrid",
+              "details": "Llegada desde Bogotá en el vuelo Iberia IB0152."
+            },
+            {
+              "time": "Por confirmar",
+              "title": "Check-in alojamiento en Madrid",
+              "details": "Confirmar dirección, hora de entrada y condiciones del alojamiento."
+            }
+          ]
+        },
+        {
+          "date": "2026-06-06",
+          "title": "Día en Madrid",
+          "items": [
+            {
+              "time": "Libre",
+              "title": "Día completo en Madrid",
+              "details": "Espacio para agendar actividades, reservas, recorridos o visitas."
+            }
+          ]
+        },
+        {
+          "date": "2026-06-07",
+          "title": "Madrid → Barcelona",
+          "items": [
+            {
+              "time": "Por confirmar",
+              "title": "Tren Madrid → Barcelona",
+              "details": "Duración estimada: 2 h 35 min. Salida hacia Barcelona."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Barcelona",
+      "range": "7 al 10 de junio",
+      "date": "2026-06-07",
+      "summary": "Estadía en Barcelona antes del vuelo hacia París.",
+      "days": [
+        {
+          "date": "2026-06-07",
+          "title": "Llegada a Barcelona",
+          "items": [
+            {
+              "time": "Por confirmar",
+              "title": "Llegada desde Madrid",
+              "details": "Llegada en tren desde Madrid."
+            },
+            {
+              "time": "Por confirmar",
+              "title": "Check-in alojamiento en Barcelona",
+              "details": "Confirmar dirección, hora de entrada y condiciones del alojamiento."
+            }
+          ]
+        },
+        {
+          "date": "2026-06-08",
+          "title": "Día en Barcelona",
+          "items": [
+            {
+              "time": "Libre",
+              "title": "Día completo en Barcelona",
+              "details": "Espacio para agendar actividades, reservas, recorridos o visitas."
+            }
+          ]
+        },
+        {
+          "date": "2026-06-09",
+          "title": "Día en Barcelona",
+          "items": [
+            {
+              "time": "Libre",
+              "title": "Último día completo en Barcelona",
+              "details": "Espacio para actividades pendientes antes de viajar a París."
+            }
+          ]
+        },
+        {
+          "date": "2026-06-10",
+          "title": "Barcelona → París",
+          "items": [
+            {
+              "time": "13:50",
+              "title": "Vuelo Barcelona → París",
+              "details": "VUELING VY8248 · Llegada 15:50 · Duración: 2 h · Reserva: UNZC4A · Equipaje: No · "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "city": "París",
+      "range": "10 al 13 de junio",
+      "date": "2026-06-10",
+      "summary": "Estadía en París antes del viaje a Múnich.",
+      "days": [
+        {
+          "date": "2026-06-10",
+          "title": "Llegada a París",
+          "items": [
+            {
+              "time": "15:50",
+              "title": "Llegada desde Barcelona",
+              "details": "Llegada en vuelo Vueling VY8248."
+            },
+            {
+              "time": "Por confirmar",
+              "title": "Check-in alojamiento en París",
+              "details": "Confirmar dirección, hora de entrada y condiciones del alojamiento."
+            }
+          ]
+        },
+        {
+          "date": "2026-06-11",
+          "title": "Día en París",
+          "items": [
+            {
+              "time": "Libre",
+              "title": "Día completo en París",
+              "details": "Espacio para agendar actividades, reservas, recorridos o visitas."
+            }
+          ]
+        },
+        {
+          "date": "2026-06-12",
+          "title": "Día en París",
+          "items": [
+            {
+              "time": "Libre",
+              "title": "Último día completo en París",
+              "details": "Espacio para actividades pendientes antes de viajar a Múnich."
+            }
+          ]
+        },
+        {
+          "date": "2026-06-13",
+          "title": "París → Múnich",
+          "items": [
+            {
+              "time": "07:05",
+              "title": "Vuelo París → Múnich",
+              "details": "AIR FRANCE AF1422 · Llegada 08:40 · Duración: 1 h 35 min · Reserva: ZGO5KY · Equipaje: No"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Múnich",
+      "range": "13 al 16 de junio",
+      "date": "2026-06-13",
+      "summary": "Estadía en Múnich antes de continuar hacia Suiza.",
+      "days": [
+        {
+          "date": "2026-06-13",
+          "title": "Llegada a Múnich",
+          "items": [
+            {
+              "time": "08:40",
+              "title": "Llegada desde París",
+              "details": "Llegada en vuelo Air France AF1422."
+            },
+            {
+              "time": "Por confirmar",
+              "title": "Check-in alojamiento en Múnich",
+              "details": "Confirmar dirección, hora de entrada y condiciones del alojamiento."
+            }
+          ]
+        },
+        {
+          "date": "2026-06-14",
+          "title": "Día en Múnich",
+          "items": [
+            {
+              "time": "Libre",
+              "title": "Día completo en Múnich",
+              "details": "Espacio para agendar actividades, reservas, recorridos o visitas."
+            }
+          ]
+        },
+        {
+          "date": "2026-06-15",
+          "title": "Día en Múnich",
+          "items": [
+            {
+              "time": "Libre",
+              "title": "Último día completo en Múnich",
+              "details": "Espacio para actividades pendientes antes de viajar a Suiza."
+            }
+          ]
+        },
+        {
+          "date": "2026-06-16",
+          "title": "Múnich → Chur → Grindelwald",
+          "items": [
+            {
+              "time": "12:48",
+              "title": "Tren Múnich → Chur",
+              "details": "OMIO ECE192 / IR2219 · Llegada 16:18 · Duración: 4 h · Reserva: 628777540908 · Equipaje: No"
+            },
+            {
+              "time": "Por confirmar",
+              "title": "Alquiler de auto en Chur",
+              "details": "Retirar el auto en Chur para continuar hacia Grindelwald."
+            },
+            {
+              "time": "Por confirmar",
+              "title": "Trayecto Chur → Grindelwald",
+              "details": "Viaje en auto hacia Grindelwald."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Suiza · Grindelwald",
+      "range": "16 al 19 de junio",
+      "date": "2026-06-16",
+      "summary": "Estadía en Grindelwald con auto alquilado desde Chur.",
+      "days": [
+        {
+          "date": "2026-06-16",
+          "title": "Llegada a Grindelwald",
+          "items": [
+            {
+              "time": "Por confirmar",
+              "title": "Llegada a Grindelwald",
+              "details": "Llegada desde Chur en auto."
+            },
+            {
+              "time": "Por confirmar",
+              "title": "Check-in alojamiento en Grindelwald",
+              "details": "Confirmar dirección, parqueadero y hora de entrada."
+            }
+          ]
+        },
+        {
+          "date": "2026-06-17",
+          "title": "Día en Grindelwald",
+          "items": [
+            {
+              "time": "Libre",
+              "title": "Día completo en Grindelwald",
+              "details": "Espacio para agendar actividades, paisajes, montaña o recorridos."
+            }
+          ]
+        },
+        {
+          "date": "2026-06-18",
+          "title": "Día en Grindelwald",
+          "items": [
+            {
+              "time": "Libre",
+              "title": "Último día completo en Grindelwald",
+              "details": "Espacio para actividades pendientes antes de salir hacia Italia."
+            }
+          ]
+        },
+        {
+          "date": "2026-06-19",
+          "title": "Suiza → Italia",
+          "items": [
+            {
+              "time": "Por confirmar",
+              "title": "Salida hacia Italia",
+              "details": "Ruta y transporte pendientes por confirmar."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Italia",
+      "range": "19 al 24 de junio",
+      "date": "2026-06-19",
+      "summary": "Etapa en Italia antes de regresar a Madrid para el vuelo internacional.",
+      "days": [
+        {
+          "date": "2026-06-19",
+          "title": "Llegada a Italia",
+          "items": [
+            {
+              "time": "Por confirmar",
+              "title": "Llegada desde Suiza",
+              "details": "Ciudad base, ruta y alojamiento pendientes por confirmar."
+            }
+          ]
+        },
+        {
+          "date": "2026-06-20",
+          "title": "Día en Italia",
+          "items": [
+            {
+              "time": "Libre",
+              "title": "Día en Italia",
+              "details": "Espacio para agendar ciudad, actividades, recorridos o reservas."
+            }
+          ]
+        },
+        {
+          "date": "2026-06-21",
+          "title": "Día en Italia",
+          "items": [
+            {
+              "time": "Libre",
+              "title": "Día en Italia",
+              "details": "Espacio para agendar ciudad, actividades, recorridos o reservas."
+            }
+          ]
+        },
+        {
+          "date": "2026-06-22",
+          "title": "Día en Italia",
+          "items": [
+            {
+              "time": "Libre",
+              "title": "Día en Italia",
+              "details": "Espacio para agendar ciudad, actividades, recorridos o reservas."
+            }
+          ]
+        },
+        {
+          "date": "2026-06-23",
+          "title": "Día en Italia",
+          "items": [
+            {
+              "time": "Libre",
+              "title": "Último día completo en Italia",
+              "details": "Espacio para actividades pendientes antes de regresar a Madrid."
+            }
+          ]
+        },
+        {
+          "date": "2026-06-24",
+          "title": "Italia → Madrid",
+          "items": [
+            {
+              "time": "Por confirmar",
+              "title": "Regreso a Madrid",
+              "details": "Regreso a Madrid para tomar el vuelo internacional en la madrugada del 25 de junio."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Regreso a Colombia",
+      "range": "25 de junio",
+      "date": "2026-06-25",
+      "summary": "Vuelo de regreso desde Madrid hacia Bogotá y conexión final a Cali.",
+      "days": [
+        {
+          "date": "2026-06-25",
+          "title": "Madrid → Bogotá → Cali",
+          "items": [
+            {
+              "time": "00:10",
+              "title": "Vuelo Madrid → Bogotá",
+              "details": "IBERIA · Llegada 03:40 · Duración: 10 h · Reserva: K4VHD · Equipaje: Sí · Costo: N/A"
+            },
+            {
+              "time": "Por confirmar",
+              "title": "Vuelo Bogotá → Cali",
+              "details": "Último tramo del viaje. Horario, aerolínea y reserva pendientes por confirmar."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "bookings": [
+    {
+      "name": "Reserva de hotel",
+      "type": "Alojamiento",
+      "file": "reservas/hotel.pdf"
+    },
+    {
+      "name": "Seguro de viaje",
+      "type": "Documento",
+      "file": "reservas/seguro.pdf"
+    },
+    {
+      "name": "Vuelos generales",
+      "type": "Transporte",
+      "file": "reservas/vuelos.pdf"
+    },
+    {
+      "name": "Vuelo de ida",
+      "type": "Transporte",
+      "note": "Tickets separados por persona.",
+      "files": [
+        {
+          "label": "Persona 1",
+          "person": "Persona 1",
+          "file": "reservas/vuelos/ida-persona-1.pdf"
+        },
+        {
+          "label": "Persona 2",
+          "person": "Persona 2",
+          "file": "reservas/vuelos/ida-persona-2.pdf"
+        },
+        {
+          "label": "Persona 3",
+          "person": "Persona 3",
+          "file": "reservas/vuelos/ida-persona-3.pdf"
+        }
+      ]
+    },
+    {
+      "name": "Vuelo de regreso",
+      "type": "Transporte",
+      "note": "Tickets separados por persona.",
+      "files": [
+        {
+          "label": "Persona 1",
+          "person": "Persona 1",
+          "file": "reservas/vuelos/regreso-persona-1.pdf"
+        },
+        {
+          "label": "Persona 2",
+          "person": "Persona 2",
+          "file": "reservas/vuelos/regreso-persona-2.pdf"
+        },
+        {
+          "label": "Persona 3",
+          "person": "Persona 3",
+          "file": "reservas/vuelos/regreso-persona-3.pdf"
+        }
+      ]
+    }
+  ]
+}
