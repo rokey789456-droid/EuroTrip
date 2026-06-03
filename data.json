@@ -92,8 +92,8 @@
     "concept": "Tirano → Milan",
     "provider": "",
     "date": "2026-06-19",
-    "total": 0,
-    "perPerson": 0,
+    "total": 196020,
+    "perPerson": 65340,
     "currency": "COP",
     "paid": false,
     "note": ""
@@ -124,11 +124,11 @@
 
   {
     "category": "Transporte",
-    "concept": "Italia → Madrid",
+    "concept": "Roma → Madrid",
     "provider": "Por confirmar",
     "date": "2026-06-24",
-    "total": 0,
-    "perPerson": 0,
+    "total": 1215300,
+    "perPerson": 405100,
     "currency": "COP",
     "paid": false,
     "note": "Regreso a Madrid para tomar vuelo internacional"
@@ -277,8 +277,8 @@
     "concept": "Entradas París",
     "provider": "Por confirmar",
     "date": "2026-06-10",
-    "total": 0,
-    "perPerson": 0,
+    "total": 1021290,
+    "perPerson": 340430,
     "currency": "COP",
     "paid": false,
     "note": "Museos, parques, tours o atracciones en París"
