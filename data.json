@@ -95,7 +95,7 @@
     "total": 196020,
     "perPerson": 65340,
     "currency": "COP",
-    "paid": false,
+    "paid": true,
     "note": ""
   },
 
@@ -130,7 +130,7 @@
     "total": 1215300,
     "perPerson": 405100,
     "currency": "COP",
-    "paid": false,
+    "paid": true,
     "note": "Regreso a Madrid para tomar vuelo internacional"
   },
   {
